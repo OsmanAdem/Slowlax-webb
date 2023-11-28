@@ -1,0 +1,39 @@
+/* OMXS30Page.css */
+
+.omxs30-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.omxs30-content {
+  max-width: 600px;
+  margin: 0 auto;
+  background-color: #fff; /* Justera bakgrundsfärgen efter dina önskemål */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.omxs30-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  color: #333; /* Justera textfärgen efter dina önskemål */
+}
+
+.omxs30-image-container {
+  margin-bottom: 20px;
+}
+
+.omxs30-image {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ccc; /* Lägg till en ram runt bilden om så önskas */
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.3); /* Lägg till en skugga om så önskas */
+}
+
+.omxs30-description {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #666; /* Justera textfärgen efter dina önskemål */
+}
